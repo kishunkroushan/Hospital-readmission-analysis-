@@ -1,6 +1,6 @@
-# 🏥 End-to-End Healthcare Analytics: Hospital Readmission Prediction
+# End-to-End Healthcare Analytics: Hospital Readmission Prediction
 
-## 📌 Project Overview
+## Project Overview
 Hospital readmissions are a major challenge for healthcare systems because they increase costs and indicate potential gaps in patient care. Predicting which patients are at high risk of readmission allows hospitals to intervene early and improve treatment outcomes.
 
 This project builds an end-to-end healthcare analytics pipeline that combines SQL data preparation, machine learning modeling, and interactive business intelligence dashboards to analyze and predict patient readmission risk.
@@ -9,7 +9,7 @@ The final output is an interactive Power BI dashboard that provides insights int
 
 ---
 
-# 🎯 Project Objectives
+# Project Objectives
 
 The main objectives of this project were:
 
@@ -21,9 +21,9 @@ The main objectives of this project were:
 
 ---
 
-# 🔄 Project Workflow
+# Project Workflow
 
-## 1️⃣ Data Extraction & Feature Engineering (SQL)
+## 1.Data Extraction & Feature Engineering (SQL)
 
 The raw healthcare dataset was first analyzed and prepared using PostgreSQL.
 
@@ -45,7 +45,7 @@ These transformations ensured the dataset was suitable for predictive modeling.
 
 ---
 
-## 2️⃣ Exploratory Data Analysis & Modeling (Python)
+## 2️.Exploratory Data Analysis & Modeling (Python)
 
 Data exploration and machine learning were performed in Google Colab using Python.
 
@@ -67,7 +67,7 @@ A Random Forest Classifier was used due to its ability to capture complex relati
 
 ---
 
-## 3️⃣ Model Evaluation
+## 3️.Model Evaluation
 
 The model was evaluated using standard classification metrics.
 
@@ -91,7 +91,7 @@ A confusion matrix was also used to analyze:
 
 ---
 
-## 4️⃣ Interactive Dashboard (Power BI)
+## 4️.Interactive Dashboard (Power BI)
 
 The results were visualized using Microsoft Power BI, creating a three-page interactive dashboard.
 
@@ -140,7 +140,7 @@ This page demonstrates how predictive analytics can support data-driven healthca
 
 ---
 
-# 📊 Key Insights
+# Key Insights
 
 The analysis revealed several important patterns:
 
@@ -153,7 +153,7 @@ These insights could help healthcare providers identify patients who may require
 
 ---
 
-# 🛠️ Technical Stack
+# Technical Stack
 
 | Category | Tools |
 |------|------|
@@ -165,20 +165,9 @@ These insights could help healthcare providers identify patients who may require
 
 ---
 
-# 📷 Dashboard Preview
 
-### Executive Overview
-*(Insert Screenshot Here)*
 
-### Clinical Insights
-*(Insert Screenshot Here)*
-
-### Predictive Model Dashboard
-*(Insert Screenshot Here)*
-
----
-
-# 💡 Future Improvements
+# Future Improvements
 
 Possible extensions of this project include:
 
@@ -189,7 +178,7 @@ Possible extensions of this project include:
 
 ---
 
-# 📚 Learning Outcomes
+# Learning Outcomes
 
 This project demonstrates practical experience in:
 
@@ -201,7 +190,7 @@ This project demonstrates practical experience in:
 
 ---
 
-# ⭐ Author
+# Author
 
 Kishunk Roushan  
 Healthcare Data Analytics Project  
