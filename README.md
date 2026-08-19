@@ -131,7 +131,7 @@ Hospital-readmission-analysis-/
 ├── sql/
 │   └── hospital_readmission_sql.sql
 │
-├── notebooks/
+├── notebook/
 │   └── readmission_model_pipeline.ipynb
 │
 ├── dashboard/
